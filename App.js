@@ -29,9 +29,6 @@ export default function App() {
     setResultado(x);
   } 
 
-
-
-
   return (
     <View style={styles.container}>
       
